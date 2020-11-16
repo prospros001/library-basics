@@ -10,7 +10,7 @@ sharey : 서브플롯이 y축 눈금을 함께 쓴다.
 
 from matplotlib import pyplot as plt
 from numpy.random import randn
-import numpy as np
+
 
 fig, sp = plt.subplots(2, 2, sharex=True, sharey=True)
 

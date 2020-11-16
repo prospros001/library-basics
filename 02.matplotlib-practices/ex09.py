@@ -7,8 +7,7 @@
 
 
 from matplotlib import pyplot as plt
-from numpy.random import randn
-import numpy as np
+
 
 fig, sp = plt.subplots(1, 1)
 
