@@ -11,4 +11,3 @@ print(arr2.shape)
 arr3 = arr1[np.newaxis, :]
 print(arr3.shape)
 print(arr3)
-

@@ -8,4 +8,4 @@ row, col = arr1.shape
 
 for r in range(row):
     for c in range(col):
-        print(f'arr1[{r}],[{c}] : {arr1[r][c]}')
+        print(f'arr1[{r}][{c}] = {arr1[r][c]}')
